@@ -1,7 +1,7 @@
 === personal ===
 Contributors: modernthemes
 Tags: white, light, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fluid-layout, responsive-layout
-Tested up to: 4.3.3
+Tested up to: 4.5
 
 personal, Copyright 2016 ModernThemes
 
